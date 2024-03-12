@@ -1,5 +1,5 @@
 {
-  "name": "izowave",
+  "name": "visionland",
   "description": "Isometric game. Build and defense in open world",
   "version": "1.18.5",
   "keywords": [
@@ -13,9 +13,9 @@
   ],
   "license": "GNU",
   "author": {
-    "name": "Nikita Galadiy",
-    "email": "dev@neki.guru",
-    "url": "https://neki.guru/"
+    "name": "VisionLand",
+    "email": "dev@vision.land",
+    "url": "https://vision.land/"
   },
   "main": "./dist/index.html",
   "scripts": {
@@ -63,6 +63,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neki-dev/izowave.git"
+    "url": "git+https://github.com/blessing2012/visionland"
   }
 }
