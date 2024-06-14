@@ -1,5 +1,5 @@
 {
-  "name": "visionland",
+  "name": "bitgoland",
   "description": "Isometric game. Build and defense in open world",
   "version": "1.18.5",
   "keywords": [
@@ -13,9 +13,9 @@
   ],
   "license": "GNU",
   "author": {
-    "name": "VisionLand",
-    "email": "dev@vision.land",
-    "url": "https://vision.land/"
+    "name": "BitGoLand",
+    "email": "dev@bitgo.games",
+    "url": "https://bitgo.games/"
   },
   "main": "./dist/index.html",
   "scripts": {
@@ -63,6 +63,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blessing2012/visionland"
+    "url": "git+https://github.com/blessing2012/bitgoland"
   }
 }
